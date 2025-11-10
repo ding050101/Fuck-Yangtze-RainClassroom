@@ -295,5 +295,23 @@
         "student": "赵思涵",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1547718450309798017"
+    },
+    {
+        "id": "1551087154926258816",
+        "title": "成人护理学Ⅰ",
+        "name": "成人护理学Ⅰ",
+        "time": "2025-11-10 12:39:43",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1551087154926258816"
+    },
+    {
+        "id": "1551254039504429696",
+        "title": "护理教育学",
+        "name": "护理教育学",
+        "time": "2025-11-10 12:39:44",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1551254039504429696"
     }
 ]
