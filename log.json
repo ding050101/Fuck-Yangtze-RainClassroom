@@ -331,5 +331,23 @@
         "student": "邵吉环",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1551813363163271680"
+    },
+    {
+        "id": "1552478144308268160",
+        "title": "成人护理学Ⅰ",
+        "name": "成人护理学Ⅰ",
+        "time": "2025-11-12 01:44:36",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1552478144308268160"
+    },
+    {
+        "id": "1552480820106448896",
+        "title": "护理信息学",
+        "name": "护理信息学",
+        "time": "2025-11-12 01:44:37",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1552480820106448896"
     }
 ]
