@@ -412,5 +412,23 @@
         "student": "邵吉环",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1561403242436147584"
+    },
+    {
+        "id": "1561480533627372160",
+        "title": "护理专业英语",
+        "name": "护理专业英语",
+        "time": "2025-11-24 10:31:48",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1561480533627372160"
+    },
+    {
+        "id": "1561403242436147584",
+        "title": "护理教育学",
+        "name": "护理教育学",
+        "time": "2025-11-24 10:31:49",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1561403242436147584"
     }
 ]
