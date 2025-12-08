@@ -763,5 +763,23 @@
         "student": "邵吉环",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1571553347243655936"
+    },
+    {
+        "id": "1571625976600255488",
+        "title": "皮肤性病护理学",
+        "name": "皮肤性病护理学",
+        "time": "2025-12-08 10:36:43",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1571625976600255488"
+    },
+    {
+        "id": "1571553347243655936",
+        "title": "护理教育学",
+        "name": "护理教育学",
+        "time": "2025-12-08 10:36:44",
+        "student": "邵吉环",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1571553347243655936"
     }
 ]
